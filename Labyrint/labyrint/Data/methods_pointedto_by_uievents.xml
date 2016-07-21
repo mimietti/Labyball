@@ -1,0 +1,8 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="LoadOnClick">
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+		</type>
+	</assembly>
+</linker>
